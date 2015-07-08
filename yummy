@@ -1,0 +1,23 @@
+stroke(222, 245, 93);
+fill(245, 231, 108);
+ellipse(200, 92, 80, 80);  // Top scoop
+
+stroke(245, 161, 175);
+fill(245, 161, 175);
+ellipse(200, 141, 80, 80); // Middle scoop!
+
+stroke(13, 163, 30);
+fill(19, 135, 56);
+ellipse(200, 189, 80, 80);  // Bottom scoop!
+
+fill(135, 124, 124);
+
+rect(150, 200, 100, 57);  // The cup!
+
+stroke(171, 12, 33);
+fill(255, 0, 0);
+
+ellipse(200, 46, 20, 20);  // The cherry, yum
+
+stroke(255, 0, 0);
+line(200, 27, 200, 36);   // And the cherry stem
